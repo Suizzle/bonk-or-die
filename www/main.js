@@ -21,7 +21,8 @@ const RESOLUTION = [144, 256];
 
 // Add sprites to this array
 const SPRITES = [
-  "/sprites/pepe.png",
+  "/sprites/heart.png",
+  "/sprites/munch_dog.png",
   // Add as many as you have in your /sprites folder
 ];
 
